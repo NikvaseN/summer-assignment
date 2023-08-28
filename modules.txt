@@ -1,0 +1,4 @@
+cd ./db
+npm i express
+cd ./react
+npm i react-scripts
